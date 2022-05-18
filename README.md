@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about python, flask, django
 - 📫 How to reach me: bahertaleb@gmail.com
 - 😄 Pronouns: HE
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm not majored in CS!
 -->
